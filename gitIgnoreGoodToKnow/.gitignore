@@ -1,3 +1,12 @@
+*.tmp
+**/temp
+
+# https://stackoverflow.com/questions/1470572/ignoring-any-bin-directory-on-a-git-project #
+
+# will ignore all files in target!!! #
+
+target/* 
+
 # Compiled class file
 *.class
 
